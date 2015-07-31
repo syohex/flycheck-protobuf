@@ -1,4 +1,4 @@
-;;; flycheck-protobuf
+;;; flycheck-protobuf - protobuf checker for flycheck
 
 ;; Copyright (C) 2015 Edward Knyshov
 
