@@ -5,7 +5,7 @@
 ;; Author: Edward Knyshov <edvorg@gmail.com>
 ;; Created: 31 July 2015
 ;; Version: 0.1
-;; Package-Requires: ((protobuf-mode "1.0"))
+;; Package-Requires: ((protobuf-mode "0"))
 ;; Keywords: flycheck
 ;; X-URL: https://github.com/edvorg/flycheck-protobuf
 
